@@ -21,4 +21,5 @@ $(document).on("pageinit", "#no1", function () {
       }
     });
   });
+  
 });
